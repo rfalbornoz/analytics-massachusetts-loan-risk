@@ -68,7 +68,7 @@ The analysis supports three operational recommendations for lenders operating in
 
 As a member of Team A01, my contributions to this project were:
 
-- **Financial domain expertise and analytical interpretation.** As the team member with prior professional experience in credit analysis and structured finance (S&P Global Ratings, Scotiabank), I led the interpretation of analytical results and their translation into business-relevant findings — connecting statistical relationships to concepts familiar to credit underwriters and risk officers (probability of default, risk-based pricing, capacity-to-repay, term premium, geographic concentration risk).
+- **Financial domain expertise and analytical interpretation.** As the team member with prior professional experience in credit analysis and structured finance (S&P Global, Scotiabank), I led the interpretation of analytical results and their translation into business-relevant findings — connecting statistical relationships to concepts familiar to credit underwriters and risk officers (probability of default, risk-based pricing, capacity-to-repay, term premium, geographic concentration risk).
 - **Findings synthesis and report authorship.** I led the writing of the project's executive summary, results interpretation, and conclusions, framing the analysis in language used by financial institutions and connecting borrower-level observations to portfolio-management and underwriting implications.
 - **Recommendations development.** I authored the operational recommendations section, drawing on credit-risk experience to translate descriptive findings into actionable proposals for underwriting, pricing, and portfolio concentration management.
 - **Cross-functional collaboration.** I contributed alongside teammates across data cleaning, EDA, and visualization workstreams, supporting the team's coding-focused members (Sarah Dsouza and Sai Leela Rahul Pujari) on analytical direction while the project benefited from their stronger technical execution at the time.
@@ -85,6 +85,8 @@ As a member of Team A01, my contributions to this project were:
 
 **Introduction to Data Analytics** is a foundational course in the Boston University MSBA program at the Questrom School of Business, covering the end-to-end analytical workflow: data acquisition and cleaning, exploratory data analysis, multi-source data integration, visualization, and translation of analytical findings into business-relevant insights and recommendations.
 
-## Related Project
+## Other Projects
 
-A follow-on predictive modeling extension of this work — comparing Logistic Regression, Decision Tree, Random Forest, and XGBoost classifiers on a regionally filtered Lending Club dataset (New England + New York) — is available as a separate repository: [loan-default-risk-prediction](https://github.com/rfalbornoz/loan-default-risk-prediction). The two projects together cover the descriptive-to-predictive arc on related data.
+- [Loan Default Risk Prediction](https://github.com/rfalbornoz/loan-default-risk-prediction): supervised ML pipeline (logistic regression, decision tree, random forest, XGBoost) on LendingClub data for New England and New York (team project); a follow-on predictive extension of this work, so the two projects together cover the descriptive-to-predictive arc on related data.
+- [Mortgage Prepayment Across Rate Regimes](https://github.com/rfalbornoz/mortgage-prepayment-rate-regimes): individual capstone research paper modeling voluntary prepayment on Freddie Mac loan-level data (2018 and 2020 vintages) with a cross-regime model transfer test.
+- [European Pharmaceutical R&D Analysis](https://github.com/rfalbornoz/european-pharmaceutical-rd-analysis): unsupervised learning and statistical testing on EMA drug-authorization data (team project).
